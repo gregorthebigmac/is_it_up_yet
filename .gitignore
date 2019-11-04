@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Do not track command repo
+src/command/*
+
+# Do not track binaries
+checkit
